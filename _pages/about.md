@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing my Ph.D at the University of Chinese Academy of Sciences, supervised by [Prof. Xiaochun Cao](https://people.ucas.ac.cn/~wr). Previously, I earned my Bachelor's degree from Beijing University of Posts and Telecommunications.
+I am currently pursuing my Ph.D at the University of Chinese Academy of Sciences, supervised by [Prof. Rui Wang](https://people.ucas.ac.cn/~wr). Previously, I earned my Bachelor's degree from Beijing University of Posts and Telecommunications.
 
 My research mainly focuses on **Trustworthy Machine Learning**. In my early research, I devoted myself to **backdoor attacks and their positive purposes**. Currently, my research centers on **trustworthy issues of generative AI** (_e.g._, LLMs and Diffusion Models). My long-term goal is to explore general vulnerabilities in generative AI and strive to enhance the safety and security of foundation models.
 
@@ -27,7 +27,7 @@ My research mainly focuses on **Trustworthy Machine Learning**. In my early rese
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024 Spotlight</div><img src='images/ECAI2024-Framework.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024 Spotlight</div><img src='images/ECAI2024-Framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MakeupAttack: Feature Space Black-Box Backdoor Attack on Face Recognition via Makeup Transfer](https://ebooks.iospress.nl/volumearticle/69591)
@@ -45,10 +45,10 @@ European Conference on Artificial Intelligence (ECAI)
 - More papers are being submitted, or please visit my [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=w4nQNKAAAAAJ) to view all papers.
 
 # 📖 Educations
-- *2022.09 - Present*
-School of Cyberspace Security, University of Chinese Academy of Sciences, China
+- *2022.09 - Present*\\
+School of Cyberspace Security, University of Chinese Academy of Sciences, China\\
 Ph.D Candidate
-- *2018.09 - 2022.06*
-School of Information and Communication Engineering, Beijing University of Posts and Telecommunications, China
-Bachelor of Engineering
+- *2018.09 - 2022.06*\\
+School of Information and Communication Engineering, Beijing University of Posts and Telecommunications, China\\
+Bachelor of Engineering\\
 GPA: 3.82/4.00 (7/515)
