@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ming Sun"
-description              : "Ph.D. Candidate, Institute of Information Engineering, Chinese Academy of Sciences, China "
+description              : "Ph.D. Candidate, UCAS, China "
 repository               : "AaronSun2000/AaronSun.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ming Sun"
   avatar           : "images/AaronSun.jpg"
-  bio              : "Major in Computer Vision, "
+  bio              : # "Major in Computer Vision "
   location         : "Beijing, China"
   employer         :
   pubmed           : 
