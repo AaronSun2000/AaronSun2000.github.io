@@ -52,5 +52,3 @@ Ph.D Candidate
 School of Information and Communication Engineering, Beijing University of Posts and Telecommunications, China\\
 Bachelor of Engineering\\
 GPA: 3.82/4.00 (7/515)
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=PlIHxoVErIpu5zz_H4801fwaXuQH0PWA82ATynsxf3c&cl=ffffff&w=a"></script>
