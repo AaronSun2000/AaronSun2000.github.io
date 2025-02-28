@@ -27,6 +27,20 @@ My research mainly focuses on **Trustworthy Machine Learning**. In my early rese
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/CVPR2025-Framework.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EntropyMark: Towards More Harmless Backdoor Watermark via Entropy-based Constraint for Open-source Dataset Copyright Protection]()
+
+**Ming Sun**, Rui Wang, Lihua Jing, Zixuan Zhu, Yuanfang Guo 
+
+[**Paper**]() / [**Code**]() 
+
+IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024 Spotlight</div><img src='images/ECAI2024-Framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
