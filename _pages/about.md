@@ -22,6 +22,7 @@ I am currently pursuing my Ph.D at the University of Chinese Academy of Sciences
 My research mainly focuses on **Trustworthy Machine Learning**. In my early research, I devoted myself to **backdoor attacks and their positive purposes**. Currently, my research centers on **trustworthy issues of generative AI** (_e.g._, LLMs and Diffusion Models). My long-term goal is to explore general vulnerabilities in generative AI and strive to enhance the safety and security of foundation models.
 
 # 🔥 News
+- *2025.02*: One first-author paper is accepted by CVPR 2025.
 - *2024.09*: 🎉🎉 Our paper is selected as Spotlight in ECAI 2024.
 - *2024.07*: One first-author paper is accepted by ECAI 2024.
 
