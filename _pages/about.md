@@ -22,12 +22,12 @@ I am currently pursuing my Ph.D at the University of Chinese Academy of Sciences
 My research mainly focuses on **Trustworthy Machine Learning**. In my early research, I devoted myself to **backdoor attacks and their positive purposes**. Currently, my research centers on **trustworthy issues of generative AI** (_e.g._, LLMs and Diffusion Models). My long-term goal is to explore general vulnerabilities in generative AI and strive to enhance the safety and security of foundation models.
 
 # 🔥 News
-- *2025.04*: One paper is accepted by IJCAI 2025. Congratulations to Minghao.
+- *2025.04*: One paper is accepted by IJCAI 2025. Congratulations to Minghao!
 - *2025.02*: One first-author paper is accepted by CVPR 2025.
 - *2024.09*: 🎉🎉 Our paper is selected as Spotlight in ECAI 2024.
 - *2024.07*: One first-author paper is accepted by ECAI 2024.
 
-# 📝 Publications 
+# 📝 First-Author Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/CVPR2025-Framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -58,6 +58,22 @@ European Conference on Artificial Intelligence (ECAI)
 </div>
 </div>
 
+# 📄 Collaboration Papers 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/cosattack.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Preventing Latent Diffusion Model-Based Image Mimicry via Angle Shifting and Ensemble Learning](https://www.ijcai.org/proceedings/2025/0156.pdf)
+
+Minghao Li , Rui Wang, **Ming Sun** and Lihua Jing
+
+[**Paper**](https://www.ijcai.org/proceedings/2025/0156.pdf) / [**Code**](https://github.com/MinghaoLi01/cosattack)
+
+the 34th International Joint Conference on Artificial Intelligence (IJCAI)
+
+</div>
+</div>
+
+
 - More papers are being submitted, or please visit my [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=w4nQNKAAAAAJ) to view all papers.
 
 # 📖 Educations
@@ -73,3 +89,11 @@ Bachelor of Engineering\\
 GPA: 3.82/4.00 (7/515)
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=PlIHxoVErIpu5zz_H4801fwaXuQH0PWA82ATynsxf3c&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
+
+# 💬 Professional Service
+### Journal Reviewer
+- IEEE Transactions on Artificial Intelligence (TAI)
+### Conference Reviewer
+- AAAI 2026
+
+
