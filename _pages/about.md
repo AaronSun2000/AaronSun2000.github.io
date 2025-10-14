@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing my Ph.D at the University of Chinese Academy of Sciences, supervised by [Prof. Rui Wang](https://people.ucas.ac.cn/~wr). Currently, I am a visiting Ph.D. student at the Centre for Frontier AI Research (CFAR), Agency for Science, Technology and Research (A*STAR), Singapore, collaborating with [Dr. Xingrui Yu](https://xingruiyu.github.io/). Previously, I earned my Bachelor's degree from Beijing University of Posts and Telecommunications.
+
+Hi there 👋👋 ! I'm Ming Sun (孙铭). I am currently pursuing my Ph.D at the University of Chinese Academy of Sciences, supervised by [Prof. Rui Wang](https://people.ucas.ac.cn/~wr). Currently, I am a visiting Ph.D. student at the Centre for Frontier AI Research (CFAR), Agency for Science, Technology and Research (A*STAR), Singapore, collaborating with [Dr. Xingrui Yu](https://xingruiyu.github.io/). Previously, I earned my Bachelor's degree from Beijing University of Posts and Telecommunications.
 
 My research mainly focuses on **Trustworthy Machine Learning**. In my early research, I devoted myself to **backdoor attacks and their positive purposes**. Currently, my research centers on **trustworthy issues of generative AI** (_e.g._, LLMs and Diffusion Models). My long-term goal is to explore general vulnerabilities in generative AI and strive to enhance the safety and security of foundation models.
 
