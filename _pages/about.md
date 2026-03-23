@@ -93,6 +93,8 @@ GPA: 3.82/4.00 (7/515)
 
 ### Journal Reviewer
 
+IEEE Transactions on Dependable and Secure Computing (TDSC)
+
 IEEE Transactions on Artificial Intelligence (TAI)
 
 ### Conference Reviewer
