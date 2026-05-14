@@ -93,8 +93,6 @@ GPA: 3.82/4.00 (7/515)
 
 ### Journal Reviewer
 
-IEEE Transactions on Dependable and Secure Computing (TDSC)
-
 IEEE Transactions on Artificial Intelligence (TAI)
 
 ### Conference Reviewer
@@ -103,7 +101,7 @@ Association for the Advancement of Artificial Intelligence (AAAI) - 2026
 
 International World Wide Web Conference (WWW) - 2026
 
-International Conference on Machine Learning (ICML) - 2026
+International Conference on Machine Learning (ICML) - 2026 (Silver Reviewer Award)
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=PlIHxoVErIpu5zz_H4801fwaXuQH0PWA82ATynsxf3c&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
 
