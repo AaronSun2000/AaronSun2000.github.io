@@ -30,6 +30,20 @@ My research mainly focuses on **Trustworthy Machine Learning**. In my early rese
 
 # 📝 First-Author Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/guardvla.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Backdoor-Based Ownership Verification for Vision-Language-Action Models](https://arxiv.org/pdf/2605.09005)
+
+**Ming Sun**, Rui Wang, Xingrui Yu, Lihua Jing, Hangyu Du, Zhenglin Wan, Xu Pan, Ivor Tsang
+
+[**Paper**](https://arxiv.org/pdf/2605.09005)
+
+Preprint
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/CVPR2025-Framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
