@@ -30,7 +30,7 @@ My research mainly focuses on **Trustworthy Machine Learning**. In my early rese
 
 # 📝 First-Author Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/guardvla.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/guardvla.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Backdoor-Based Ownership Verification for Vision-Language-Action Models](https://arxiv.org/pdf/2605.09005)
@@ -47,11 +47,11 @@ Preprint
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/CVPR2025-Framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[EntropyMark: Towards More Harmless Backdoor Watermark via Entropy-based Constraint for Open-source Dataset Copyright Protection]()
+[EntropyMark: Towards More Harmless Backdoor Watermark via Entropy-based Constraint for Open-source Dataset Copyright Protection](https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_EntropyMark_Towards_More_Harmless_Backdoor_Watermark_via_Entropy-based_Constraint_for_CVPR_2025_paper.pdf)
 
 **Ming Sun**, Rui Wang, Lihua Jing, Zixuan Zhu, Yuanfang Guo 
 
-[**Paper**]() / [**Code**]() 
+[**Paper**](https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_EntropyMark_Towards_More_Harmless_Backdoor_Watermark_via_Entropy-based_Constraint_for_CVPR_2025_paper.pdf) / [**Code**]() 
 
 IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)
 
