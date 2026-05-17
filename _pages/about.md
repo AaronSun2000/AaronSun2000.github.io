@@ -74,7 +74,7 @@ the 34th International Joint Conference on Artificial Intelligence (IJCAI)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 Workshop</div><img src='images/savla.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 Workshop</div><img src='images/savla.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SA-VLA: Spatially-Aware Flow-Matching for Vision-Language-Action
@@ -84,7 +84,7 @@ Xu Pan, Zhenglin Wan, Xingrui Yu, Xianwei Zheng, Youkai Ke, **Ming Sun**, Rui Wa
 
 [**Paper**](https://arxiv.org/pdf/2602.00743) / [**Code**](https://github.com/TwSphinx54/SA-VLA) / [**Model**](https://huggingface.co/SSSSphinx/SA-VLA)
 
-IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 Workshop on 3D-LLM/VLA (CVPR Workshop)
+IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 Workshop on 3D-LLM/VLA (CVPR Workshop 3D-LLM/VLA)
 
 </div>
 </div>
