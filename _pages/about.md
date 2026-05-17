@@ -74,20 +74,6 @@ European Conference on Artificial Intelligence (ECAI)
 </div>
 
 # 📄 Collaboration Papers 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/cosattack.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Preventing Latent Diffusion Model-Based Image Mimicry via Angle Shifting and Ensemble Learning](https://www.ijcai.org/proceedings/2025/0156.pdf)
-
-Minghao Li , Rui Wang, **Ming Sun** and Lihua Jing
-
-[**Paper**](https://www.ijcai.org/proceedings/2025/0156.pdf) / [**Code**](https://github.com/MinghaoLi01/cosattack)
-
-the 34th International Joint Conference on Artificial Intelligence (IJCAI)
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 Workshop</div><img src='images/savla.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -103,6 +89,19 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026 Workshop on 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/cosattack.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Preventing Latent Diffusion Model-Based Image Mimicry via Angle Shifting and Ensemble Learning](https://www.ijcai.org/proceedings/2025/0156.pdf)
+
+Minghao Li , Rui Wang, **Ming Sun** and Lihua Jing
+
+[**Paper**](https://www.ijcai.org/proceedings/2025/0156.pdf) / [**Code**](https://github.com/MinghaoLi01/cosattack)
+
+the 34th International Joint Conference on Artificial Intelligence (IJCAI)
+
+</div>
+</div>
 
 - More papers are being submitted, or please visit my [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=w4nQNKAAAAAJ) to view all papers.
 
