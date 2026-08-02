@@ -26,7 +26,7 @@ My research mainly focuses on **Trustworthy Machine Learning**. In my early rese
 - *2025.07*: One first-author paper is accepted by IEEE TDSC.
 - *2025.04*: One paper is accepted by IJCAI 2025. Congrats to Minghao!
 - *2025.02*: One first-author paper is accepted by CVPR 2025.
-- *2024.09*: 🎉🎉 Our paper is selected as Spotlight in ECAI 2024.
+- *2024.09*: 🎉🎉 MakeupAttack is selected as Spotlight in ECAI 2024.
 - *2024.07*: One first-author paper is accepted by ECAI 2024.
 
 # 📝 First-Author Publications 
