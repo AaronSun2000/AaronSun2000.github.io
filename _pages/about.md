@@ -41,6 +41,8 @@ My research mainly focuses on **Trustworthy Machine Learning**. In my early rese
 
 IEEE Transactions on Dependable and Secure Computing (TDSC)
 
+<font color=purple>Impact factor: 6.8</font>
+
 </div>
 </div>
 
