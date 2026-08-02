@@ -30,7 +30,7 @@ My research mainly focuses on **Trustworthy Machine Learning**. In my early rese
 
 # 📝 First-Author Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TDSC 2026</div><img src='images/TDSC-2026-Framework.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TDSC 2026</div><img src='images/TDSC2026-Framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Harmless Verification of Web-Sourced Datasets Usage in Text-to-Image Diffusion Models Via Self-Activated Text Encoder](https://ieeexplore.ieee.org/abstract/document/11626071)
