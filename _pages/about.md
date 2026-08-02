@@ -23,7 +23,8 @@ Hi there 👋👋 ! I'm Ming Sun (孙铭). I am currently pursuing my Ph.D at th
 My research mainly focuses on **Trustworthy Machine Learning**. In my early research, I devoted myself to **backdoor attacks and their positive purposes**. Currently, my research centers on **trustworthy issues of generative AI** (_e.g._, LLMs and Diffusion Models). My long-term goal is to explore general vulnerabilities in generative AI and strive to enhance the safety and security of foundation models.
 
 # 🔥 News
-- *2025.04*: One paper is accepted by IJCAI 2025. Congratulations to Minghao!
+- *2025.07*: One first-author paper is accepted by IEEE TDSC.
+- *2025.04*: One paper is accepted by IJCAI 2025. Congrats to Minghao!
 - *2025.02*: One first-author paper is accepted by CVPR 2025.
 - *2024.09*: 🎉🎉 Our paper is selected as Spotlight in ECAI 2024.
 - *2024.07*: One first-author paper is accepted by ECAI 2024.
