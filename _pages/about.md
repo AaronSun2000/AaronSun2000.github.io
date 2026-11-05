@@ -142,7 +142,7 @@ IEEE Transactions on Artificial Intelligence (TAI)
 
 ### Conference Reviewer
 
-Association for the Advancement of Artificial Intelligence (AAAI) - 2026, 2027
+Association for the Advancement of Artificial Intelligence (AAAI) - 2026
 
 International World Wide Web Conference (WWW) - 2026
 
